@@ -1,4 +1,4 @@
 # Gitchecking
 This is my first Git repository
 <br>
-Author- Shantanu Pandey
+Author- Shantanu Pandey Gandey
